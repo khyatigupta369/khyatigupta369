@@ -7,6 +7,6 @@ I'm a full stack developer and a tech Enthusiast
 
 🤔 I'm looking for help with Competitive Programming
 
-💬 Ask me about Mern Stack and Ukelele 🎸
+💬 Ask me about MERN Stack and Ukelele 🎸
 
 📫 How to reach me khaytigupta369@gmail.com
