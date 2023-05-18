@@ -20,3 +20,9 @@
 </p>
 
 <p align='center'>For enquiries, reach out @khaytigupta369@gmail.com </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khyatigupta369&repo=github-readme-stats)](https://github.com/khyatigupta369/github-readme-stats)
+
+Use [show_owner](#customization) variable to include the repo's owner username
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khyatigupta369&repo=github-readme-stats&show_owner=true)](https://github.com/khyatigupta369/github-readme-stats)
