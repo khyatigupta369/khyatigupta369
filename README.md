@@ -1,12 +1,10 @@
 <h2> Hi, This is Khyati Gupta <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-👩‍💻 I'm currently working on ML solutions for cyberSecurity
+👩‍💻 I'm currently learning Go Lang
 
-🧠 Am a full stack MERN Developer!
+🧠 I am a Backend Developer in Django and MERN stack
 
-🤔 I'm looking for help with Competitive Programming
-
-💬 Ask me about MERN Stack and Ukelele 🎸
+💬 Let's talk about F1 and Ferrari 🏎️
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
