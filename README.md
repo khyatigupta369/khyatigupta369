@@ -10,9 +10,6 @@
 
 <h1 align='center'><i>Stay awesome. Keep Contributing!</i></h1>
 
-## 💻 Open Source Work Stats
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khyatigupta369&layout=compact)](https://github.com/khyatigupta369/github-readme-stats)
 
 
